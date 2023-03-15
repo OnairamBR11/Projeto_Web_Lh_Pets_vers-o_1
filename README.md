@@ -1,1 +1,3 @@
-# Projeto_Web_Lh_Pets_vers-o_1
+# PROJETO LH PETS V1
+
+## Atividade proposta no curso de Programador Back-End do SENAI-EAD
